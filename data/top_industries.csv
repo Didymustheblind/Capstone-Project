@@ -1,0 +1,511 @@
+State,Occupation,Numbers
+Wyoming,"Office Clerks, General",7960
+Wyoming,Retail Salespersons,7900
+Wyoming,Heavy and Tractor-Trailer Truck Drivers,7130
+Wyoming,Cashiers,6350
+Wyoming,Fast Food and Counter Workers,6000
+Wyoming,Registered Nurses,5120
+Wyoming,General and Operations Managers,4990
+Wyoming,Waiters and Waitresses,4740
+Wyoming,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",4530
+Wyoming,Operating Engineers and Other Construction Equipment Operators,4060
+Wisconsin,Retail Salespersons,78410
+Wisconsin,Fast Food and Counter Workers,73620
+Wisconsin,Home Health and Personal Care Aides,72060
+Wisconsin,Customer Service Representatives,69460
+Wisconsin,Cashiers,65280
+Wisconsin,Registered Nurses,61930
+Wisconsin,"Office Clerks, General",58930
+Wisconsin,"Laborers and Freight, Stock, and Material Movers, Hand",56750
+Wisconsin,Heavy and Tractor-Trailer Truck Drivers,51440
+Wisconsin,Miscellaneous Assemblers and Fabricators,48030
+West_Virginia,Fast Food and Counter Workers,22970
+West_Virginia,Retail Salespersons,21770
+West_Virginia,Cashiers,20320
+West_Virginia,Registered Nurses,19830
+West_Virginia,"Office Clerks, General",18620
+West_Virginia,Home Health and Personal Care Aides,15080
+West_Virginia,Customer Service Representatives,12660
+West_Virginia,Heavy and Tractor-Trailer Truck Drivers,11840
+West_Virginia,Waiters and Waitresses,11530
+West_Virginia,General and Operations Managers,11510
+Washington,Retail Salespersons,106070
+Washington,Fast Food and Counter Workers,97240
+Washington,Software Developers and Software Quality Assurance Analysts and Testers,77650
+Washington,"Office Clerks, General",69370
+Washington,Cashiers,66200
+Washington,"Laborers and Freight, Stock, and Material Movers, Hand",64880
+Washington,Home Health and Personal Care Aides,61470
+Washington,Registered Nurses,58000
+Washington,Customer Service Representatives,56760
+Washington,Waiters and Waitresses,55090
+Virginia,Cashiers,115790
+Virginia,Retail Salespersons,103600
+Virginia,Fast Food and Counter Workers,102410
+Virginia,"Office Clerks, General",76110
+Virginia,Customer Service Representatives,74340
+Virginia,Software Developers and Software Quality Assurance Analysts and Testers,73310
+Virginia,Waiters and Waitresses,69990
+Virginia,Registered Nurses,66040
+Virginia,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",60510
+Virginia,Stockers and Order Fillers,58380
+Vermont,Cashiers,8690
+Vermont,Retail Salespersons,8520
+Vermont,Home Health and Personal Care Aides,7230
+Vermont,Registered Nurses,7020
+Vermont,Fast Food and Counter Workers,5950
+Vermont,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",5460
+Vermont,Waiters and Waitresses,4970
+Vermont,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",4880
+Vermont,"Bookkeeping, Accounting, and Auditing Clerks",4840
+Vermont,"Teaching Assistants, Except Postsecondary",4650
+Utah,Customer Service Representatives,49070
+Utah,Retail Salespersons,47650
+Utah,General and Operations Managers,47380
+Utah,Fast Food and Counter Workers,46610
+Utah,"Office Clerks, General",31500
+Utah,Cashiers,30840
+Utah,"Laborers and Freight, Stock, and Material Movers, Hand",24050
+Utah,Heavy and Tractor-Trailer Truck Drivers,23300
+Utah,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",23180
+Utah,Registered Nurses,21650
+Texas,Fast Food and Counter Workers,419820
+Texas,Retail Salespersons,383920
+Texas,"Office Clerks, General",313750
+Texas,Home Health and Personal Care Aides,300820
+Texas,Customer Service Representatives,291550
+Texas,Cashiers,284770
+Texas,Waiters and Waitresses,219180
+Texas,Registered Nurses,218090
+Texas,General and Operations Managers,217080
+Texas,"Laborers and Freight, Stock, and Material Movers, Hand",204030
+Tennessee,"Laborers and Freight, Stock, and Material Movers, Hand",93310
+Tennessee,Retail Salespersons,90030
+Tennessee,Cashiers,74130
+Tennessee,Customer Service Representatives,67820
+Tennessee,Fast Food and Counter Workers,66270
+Tennessee,Heavy and Tractor-Trailer Truck Drivers,63790
+Tennessee,Registered Nurses,63330
+Tennessee,Stockers and Order Fillers,59650
+Tennessee,"Office Clerks, General",59540
+Tennessee,Waiters and Waitresses,55250
+South_Dakota,Retail Salespersons,15260
+South_Dakota,Fast Food and Counter Workers,13130
+South_Dakota,Registered Nurses,12950
+South_Dakota,Cashiers,12550
+South_Dakota,"Bookkeeping, Accounting, and Auditing Clerks",9700
+South_Dakota,Customer Service Representatives,8810
+South_Dakota,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",8250
+South_Dakota,Heavy and Tractor-Trailer Truck Drivers,7300
+South_Dakota,Waiters and Waitresses,7020
+South_Dakota,Nursing Assistants,5990
+South_Carolina,Fast Food and Counter Workers,73730
+South_Carolina,Retail Salespersons,71670
+South_Carolina,Cashiers,64700
+South_Carolina,"Laborers and Freight, Stock, and Material Movers, Hand",64150
+South_Carolina,Customer Service Representatives,51510
+South_Carolina,Miscellaneous Assemblers and Fabricators,47820
+South_Carolina,Registered Nurses,46860
+South_Carolina,Waiters and Waitresses,40370
+South_Carolina,"Office Clerks, General",34230
+South_Carolina,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",34170
+Rhode_Island,Cashiers,13570
+Rhode_Island,Retail Salespersons,12920
+Rhode_Island,Registered Nurses,12630
+Rhode_Island,Fast Food and Counter Workers,11860
+Rhode_Island,"Office Clerks, General",10460
+Rhode_Island,Waiters and Waitresses,9750
+Rhode_Island,Nursing Assistants,9300
+Rhode_Island,Customer Service Representatives,8460
+Rhode_Island,"Laborers and Freight, Stock, and Material Movers, Hand",8270
+Rhode_Island,Home Health and Personal Care Aides,7310
+Pennsylvania,Home Health and Personal Care Aides,183430
+Pennsylvania,Fast Food and Counter Workers,167840
+Pennsylvania,Retail Salespersons,159180
+Pennsylvania,"Office Clerks, General",159110
+Pennsylvania,Registered Nurses,148040
+Pennsylvania,"Laborers and Freight, Stock, and Material Movers, Hand",147080
+Pennsylvania,Cashiers,140150
+Pennsylvania,Customer Service Representatives,129250
+Pennsylvania,Waiters and Waitresses,96210
+Pennsylvania,Stockers and Order Fillers,92520
+Oregon,Fast Food and Counter Workers,58640
+Oregon,Retail Salespersons,55610
+Oregon,Cashiers,40680
+Oregon,Registered Nurses,36660
+Oregon,"Office Clerks, General",34100
+Oregon,General and Operations Managers,34050
+Oregon,Waiters and Waitresses,31810
+Oregon,Home Health and Personal Care Aides,30580
+Oregon,Stockers and Order Fillers,29990
+Oregon,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",29650
+Oklahoma,Retail Salespersons,49560
+Oklahoma,Cashiers,42810
+Oklahoma,Fast Food and Counter Workers,39330
+Oklahoma,Registered Nurses,31350
+Oklahoma,"Laborers and Freight, Stock, and Material Movers, Hand",29980
+Oklahoma,Customer Service Representatives,29930
+Oklahoma,Waiters and Waitresses,29020
+Oklahoma,Heavy and Tractor-Trailer Truck Drivers,27470
+Oklahoma,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",25170
+Oklahoma,General and Operations Managers,23950
+Ohio,Fast Food and Counter Workers,175500
+Ohio,Retail Salespersons,148470
+Ohio,Registered Nurses,125470
+Ohio,"Laborers and Freight, Stock, and Material Movers, Hand",118130
+Ohio,Cashiers,117440
+Ohio,"Office Clerks, General",116010
+Ohio,Customer Service Representatives,110020
+Ohio,Home Health and Personal Care Aides,94870
+Ohio,Waiters and Waitresses,87960
+Ohio,Stockers and Order Fillers,86150
+North_Dakota,Retail Salespersons,12540
+North_Dakota,"Office Clerks, General",10740
+North_Dakota,Heavy and Tractor-Trailer Truck Drivers,10690
+North_Dakota,Fast Food and Counter Workers,10680
+North_Dakota,Cashiers,10200
+North_Dakota,Registered Nurses,9750
+North_Dakota,General and Operations Managers,8090
+North_Dakota,Nursing Assistants,8020
+North_Dakota,Customer Service Representatives,6610
+North_Dakota,"Laborers and Freight, Stock, and Material Movers, Hand",6500
+North_Carolina,Retail Salespersons,143830
+North_Carolina,Fast Food and Counter Workers,136970
+North_Carolina,Cashiers,126920
+North_Carolina,Registered Nurses,99960
+North_Carolina,"Laborers and Freight, Stock, and Material Movers, Hand",95610
+North_Carolina,Customer Service Representatives,88950
+North_Carolina,"Office Clerks, General",84330
+North_Carolina,Waiters and Waitresses,82340
+North_Carolina,Stockers and Order Fillers,67740
+North_Carolina,Home Health and Personal Care Aides,62310
+New_York,Home Health and Personal Care Aides,444880
+New_York,Retail Salespersons,288630
+New_York,Fast Food and Counter Workers,211970
+New_York,Cashiers,198340
+New_York,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",190730
+New_York,"Office Clerks, General",186380
+New_York,Registered Nurses,178320
+New_York,General and Operations Managers,168730
+New_York,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",166810
+New_York,Waiters and Waitresses,160470
+New_Mexico,Home Health and Personal Care Aides,30230
+New_Mexico,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",28990
+New_Mexico,Retail Salespersons,25790
+New_Mexico,Fast Food and Counter Workers,24290
+New_Mexico,Cashiers,22850
+New_Mexico,Customer Service Representatives,19400
+New_Mexico,Registered Nurses,17350
+New_Mexico,Waiters and Waitresses,17000
+New_Mexico,General and Operations Managers,14730
+New_Mexico,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",12070
+New_Jersey,"Laborers and Freight, Stock, and Material Movers, Hand",133980
+New_Jersey,Retail Salespersons,125470
+New_Jersey,Cashiers,93530
+New_Jersey,Registered Nurses,80140
+New_Jersey,Fast Food and Counter Workers,78900
+New_Jersey,Customer Service Representatives,68780
+New_Jersey,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",67210
+New_Jersey,"Office Clerks, General",66760
+New_Jersey,Stockers and Order Fillers,65580
+New_Jersey,Waiters and Waitresses,62540
+New_Hampshire,Retail Salespersons,24400
+New_Hampshire,Cashiers,21500
+New_Hampshire,"Office Clerks, General",16050
+New_Hampshire,Fast Food and Counter Workers,14350
+New_Hampshire,Stockers and Order Fillers,14340
+New_Hampshire,Registered Nurses,14320
+New_Hampshire,General and Operations Managers,13380
+New_Hampshire,Waiters and Waitresses,12390
+New_Hampshire,Customer Service Representatives,11660
+New_Hampshire,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",10690
+Nevada,Retail Salespersons,46920
+Nevada,Fast Food and Counter Workers,43310
+Nevada,Waiters and Waitresses,37300
+Nevada,Cashiers,37060
+Nevada,"Laborers and Freight, Stock, and Material Movers, Hand",37000
+Nevada,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",29360
+Nevada,"Office Clerks, General",28800
+Nevada,Customer Service Representatives,28200
+Nevada,Maids and Housekeeping Cleaners,25140
+Nevada,Registered Nurses,22940
+Nebraska,Fast Food and Counter Workers,28830
+Nebraska,Retail Salespersons,27860
+Nebraska,Heavy and Tractor-Trailer Truck Drivers,27570
+Nebraska,Registered Nurses,23800
+Nebraska,Cashiers,23360
+Nebraska,Customer Service Representatives,20770
+Nebraska,"Laborers and Freight, Stock, and Material Movers, Hand",18290
+Nebraska,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",16010
+Nebraska,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",15390
+Nebraska,"Office Clerks, General",15320
+Montana,Retail Salespersons,14520
+Montana,Cashiers,14050
+Montana,Fast Food and Counter Workers,12880
+Montana,"Office Clerks, General",12840
+Montana,Registered Nurses,10310
+Montana,Waiters and Waitresses,10050
+Montana,"Bookkeeping, Accounting, and Auditing Clerks",7990
+Montana,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",7590
+Montana,Home Health and Personal Care Aides,6710
+Montana,Heavy and Tractor-Trailer Truck Drivers,6370
+Missouri,Retail Salespersons,81360
+Missouri,Fast Food and Counter Workers,79770
+Missouri,Cashiers,74440
+Missouri,Home Health and Personal Care Aides,71070
+Missouri,Registered Nurses,68840
+Missouri,"Office Clerks, General",55760
+Missouri,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",55520
+Missouri,General and Operations Managers,53110
+Missouri,Customer Service Representatives,48660
+Missouri,Waiters and Waitresses,48490
+Mississippi,Cashiers,41340
+Mississippi,Retail Salespersons,36910
+Mississippi,"Laborers and Freight, Stock, and Material Movers, Hand",31950
+Mississippi,Registered Nurses,29550
+Mississippi,Heavy and Tractor-Trailer Truck Drivers,22600
+Mississippi,General and Operations Managers,20530
+Mississippi,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",20130
+Mississippi,Miscellaneous Assemblers and Fabricators,19850
+Mississippi,Waiters and Waitresses,19450
+Mississippi,Stockers and Order Fillers,18710
+Minnesota,Home Health and Personal Care Aides,103830
+Minnesota,Retail Salespersons,84960
+Minnesota,Fast Food and Counter Workers,78860
+Minnesota,Registered Nurses,71000
+Minnesota,Cashiers,69350
+Minnesota,Customer Service Representatives,60340
+Minnesota,"Office Clerks, General",52080
+Minnesota,Waiters and Waitresses,47340
+Minnesota,"Laborers and Freight, Stock, and Material Movers, Hand",45070
+Minnesota,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",44880
+Michigan,Retail Salespersons,136190
+Michigan,Fast Food and Counter Workers,127870
+Michigan,Miscellaneous Assemblers and Fabricators,110680
+Michigan,"Office Clerks, General",96950
+Michigan,Registered Nurses,96900
+Michigan,Cashiers,94700
+Michigan,Customer Service Representatives,88540
+Michigan,Waiters and Waitresses,82380
+Michigan,"Laborers and Freight, Stock, and Material Movers, Hand",73510
+Michigan,Home Health and Personal Care Aides,68860
+Massachusetts,Home Health and Personal Care Aides,108670
+Massachusetts,Retail Salespersons,98510
+Massachusetts,Fast Food and Counter Workers,88330
+Massachusetts,General and Operations Managers,82190
+Massachusetts,Registered Nurses,81020
+Massachusetts,Cashiers,77840
+Massachusetts,Waiters and Waitresses,67720
+Massachusetts,Customer Service Representatives,65510
+Massachusetts,"Office Clerks, General",56890
+Massachusetts,Software Developers and Software Quality Assurance Analysts and Testers,55710
+Maryland,Cashiers,79280
+Maryland,Retail Salespersons,68970
+Maryland,Fast Food and Counter Workers,62810
+Maryland,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",54130
+Maryland,Registered Nurses,53150
+Maryland,General and Operations Managers,47870
+Maryland,Customer Service Representatives,45490
+Maryland,Stockers and Order Fillers,44260
+Maryland,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",42870
+Maryland,Waiters and Waitresses,42350
+Maine,Retail Salespersons,20330
+Maine,Home Health and Personal Care Aides,16960
+Maine,Registered Nurses,14490
+Maine,Cashiers,14080
+Maine,Fast Food and Counter Workers,13530
+Maine,Waiters and Waitresses,12970
+Maine,General and Operations Managers,11960
+Maine,"Office Clerks, General",11910
+Maine,Customer Service Representatives,11660
+Maine,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",11450
+Louisiana,Cashiers,64340
+Louisiana,Retail Salespersons,57350
+Louisiana,"Laborers and Freight, Stock, and Material Movers, Hand",44980
+Louisiana,Registered Nurses,40870
+Louisiana,Home Health and Personal Care Aides,38580
+Louisiana,"Office Clerks, General",36910
+Louisiana,Food Preparation Workers,36620
+Louisiana,Waiters and Waitresses,36420
+Louisiana,Fast Food and Counter Workers,32280
+Louisiana,General and Operations Managers,29260
+Kentucky,Fast Food and Counter Workers,65690
+Kentucky,"Laborers and Freight, Stock, and Material Movers, Hand",63980
+Kentucky,Retail Salespersons,54250
+Kentucky,Cashiers,51260
+Kentucky,Miscellaneous Assemblers and Fabricators,50480
+Kentucky,Registered Nurses,43840
+Kentucky,Customer Service Representatives,43270
+Kentucky,"Office Clerks, General",38750
+Kentucky,Stockers and Order Fillers,32900
+Kentucky,Waiters and Waitresses,31690
+Kansas,Fast Food and Counter Workers,41030
+Kansas,Retail Salespersons,36230
+Kansas,Cashiers,32610
+Kansas,Customer Service Representatives,31920
+Kansas,Registered Nurses,30370
+Kansas,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",29110
+Kansas,Home Health and Personal Care Aides,25110
+Kansas,"Laborers and Freight, Stock, and Material Movers, Hand",23260
+Kansas,Waiters and Waitresses,22390
+Kansas,Nursing Assistants,21840
+Iowa,Cashiers,46310
+Iowa,Retail Salespersons,43190
+Iowa,Fast Food and Counter Workers,40510
+Iowa,Heavy and Tractor-Trailer Truck Drivers,38900
+Iowa,Registered Nurses,32980
+Iowa,Customer Service Representatives,32240
+Iowa,"Office Clerks, General",29550
+Iowa,"Laborers and Freight, Stock, and Material Movers, Hand",29270
+Iowa,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",25190
+Iowa,General and Operations Managers,24120
+Indiana,Fast Food and Counter Workers,101290
+Indiana,"Laborers and Freight, Stock, and Material Movers, Hand",93040
+Indiana,Miscellaneous Assemblers and Fabricators,91280
+Indiana,Retail Salespersons,88840
+Indiana,"Office Clerks, General",73900
+Indiana,Cashiers,69340
+Indiana,Registered Nurses,67510
+Indiana,Customer Service Representatives,53480
+Indiana,Heavy and Tractor-Trailer Truck Drivers,52740
+Indiana,General and Operations Managers,51040
+Illinois,"Laborers and Freight, Stock, and Material Movers, Hand",181540
+Illinois,"Office Clerks, General",161770
+Illinois,Fast Food and Counter Workers,158350
+Illinois,Retail Salespersons,157400
+Illinois,Cashiers,137250
+Illinois,Registered Nurses,129530
+Illinois,General and Operations Managers,128580
+Illinois,Customer Service Representatives,122490
+Illinois,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",94280
+Illinois,Waiters and Waitresses,90050
+Idaho,Retail Salespersons,23490
+Idaho,Customer Service Representatives,18340
+Idaho,Cashiers,17620
+Idaho,"Office Clerks, General",16740
+Idaho,Home Health and Personal Care Aides,16270
+Idaho,Fast Food and Counter Workers,16060
+Idaho,General and Operations Managers,14600
+Idaho,Registered Nurses,14110
+Idaho,Waiters and Waitresses,12940
+Idaho,Heavy and Tractor-Trailer Truck Drivers,12750
+Hawaii,Retail Salespersons,24940
+Hawaii,Waiters and Waitresses,19500
+Hawaii,Fast Food and Counter Workers,17070
+Hawaii,Cashiers,13270
+Hawaii,Maids and Housekeeping Cleaners,13230
+Hawaii,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",11910
+Hawaii,Registered Nurses,11330
+Hawaii,"Office Clerks, General",11310
+Hawaii,"Cooks, Restaurant",11220
+Hawaii,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",10200
+Georgia,Retail Salespersons,143080
+Georgia,Fast Food and Counter Workers,135320
+Georgia,"Laborers and Freight, Stock, and Material Movers, Hand",127990
+Georgia,Cashiers,115640
+Georgia,Customer Service Representatives,112130
+Georgia,Waiters and Waitresses,84490
+Georgia,General and Operations Managers,83090
+Georgia,Registered Nurses,75430
+Georgia,"Office Clerks, General",73860
+Georgia,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",65440
+Florida,Retail Salespersons,325640
+Florida,Customer Service Representatives,267430
+Florida,Fast Food and Counter Workers,242300
+Florida,Cashiers,229830
+Florida,Waiters and Waitresses,208360
+Florida,"Office Clerks, General",191650
+Florida,Registered Nurses,181670
+Florida,"Laborers and Freight, Stock, and Material Movers, Hand",156120
+Florida,General and Operations Managers,147680
+Florida,Stockers and Order Fillers,140540
+District_of_Columbia,"Project Management Specialists and Business Operations Specialists, All Other",36840
+District_of_Columbia,Lawyers,30960
+District_of_Columbia,General and Operations Managers,25630
+District_of_Columbia,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",20690
+District_of_Columbia,Public Relations Specialists,18600
+District_of_Columbia,Management Analysts,18370
+District_of_Columbia,Security Guards,14810
+District_of_Columbia,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",14250
+District_of_Columbia,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",12300
+District_of_Columbia,Home Health and Personal Care Aides,11360
+Delaware,Cashiers,13940
+Delaware,Retail Salespersons,13530
+Delaware,Fast Food and Counter Workers,12660
+Delaware,Registered Nurses,11730
+Delaware,Customer Service Representatives,8850
+Delaware,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",8840
+Delaware,Waiters and Waitresses,8120
+Delaware,Stockers and Order Fillers,7270
+Delaware,Home Health and Personal Care Aides,6710
+Delaware,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",6650
+Connecticut,Cashiers,45010
+Connecticut,Retail Salespersons,41900
+Connecticut,Registered Nurses,34740
+Connecticut,Home Health and Personal Care Aides,34610
+Connecticut,Fast Food and Counter Workers,32800
+Connecticut,Customer Service Representatives,31100
+Connecticut,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",30920
+Connecticut,Waiters and Waitresses,30870
+Connecticut,General and Operations Managers,30480
+Connecticut,"Office Clerks, General",28350
+Colorado,Retail Salespersons,82750
+Colorado,Fast Food and Counter Workers,71430
+Colorado,Cashiers,55790
+Colorado,Registered Nurses,52510
+Colorado,"Project Management Specialists and Business Operations Specialists, All Other",50930
+Colorado,Waiters and Waitresses,49420
+Colorado,Customer Service Representatives,48650
+Colorado,Software Developers and Software Quality Assurance Analysts and Testers,44510
+Colorado,Stockers and Order Fillers,40590
+Colorado,"Office Clerks, General",39570
+California,Home Health and Personal Care Aides,595760
+California,Fast Food and Counter Workers,436540
+California,Cashiers,431140
+California,Retail Salespersons,418900
+California,"Laborers and Freight, Stock, and Material Movers, Hand",393460
+California,"Office Clerks, General",333940
+California,Registered Nurses,302770
+California,Waiters and Waitresses,289160
+California,Stockers and Order Fillers,263730
+California,General and Operations Managers,259550
+Arkansas,Fast Food and Counter Workers,40720
+Arkansas,Retail Salespersons,38330
+Arkansas,Heavy and Tractor-Trailer Truck Drivers,36680
+Arkansas,Cashiers,29120
+Arkansas,"Office Clerks, General",26540
+Arkansas,Registered Nurses,25210
+Arkansas,Home Health and Personal Care Aides,21080
+Arkansas,"Laborers and Freight, Stock, and Material Movers, Hand",21050
+Arkansas,General and Operations Managers,20910
+Arkansas,Stockers and Order Fillers,19630
+Arizona,Customer Service Representatives,105000
+Arizona,Retail Salespersons,89290
+Arizona,Home Health and Personal Care Aides,66890
+Arizona,Cashiers,65170
+Arizona,Fast Food and Counter Workers,63280
+Arizona,General and Operations Managers,54780
+Arizona,Registered Nurses,54590
+Arizona,"Office Clerks, General",53580
+Arizona,Waiters and Waitresses,50880
+Arizona,"Laborers and Freight, Stock, and Material Movers, Hand",49630
+Alaska,Retail Salespersons,10360
+Alaska,"Office Clerks, General",7360
+Alaska,Cashiers,7010
+Alaska,Home Health and Personal Care Aides,6910
+Alaska,General and Operations Managers,6760
+Alaska,Fast Food and Counter Workers,6290
+Alaska,Registered Nurses,6210
+Alaska,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",5400
+Alaska,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",4930
+Alaska,Stockers and Order Fillers,4830
+Alabama,Retail Salespersons,64130
+Alabama,Fast Food and Counter Workers,62620
+Alabama,Cashiers,61180
+Alabama,Registered Nurses,49190
+Alabama,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",47030
+Alabama,"Laborers and Freight, Stock, and Material Movers, Hand",39900
+Alabama,Miscellaneous Assemblers and Fabricators,39160
+Alabama,Customer Service Representatives,34820
+Alabama,Waiters and Waitresses,33650
+Alabama,Heavy and Tractor-Trailer Truck Drivers,31150

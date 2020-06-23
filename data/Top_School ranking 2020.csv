@@ -1,0 +1,51 @@
+State,overallRank,qualityRank,safetyRank
+Massachusetts,1,2,1
+New Jersey,2,1,11
+Connecticut,3,3,12
+Virginia,4,7,2
+Vermont,5,6,4
+Minnesota,6,7,23
+New Hampshire,7,9,6
+Nebraska,8,11,7
+North Dakota,9,5,43
+Wyoming,10,8,29
+Wisconsin,11,10,27
+Delaware,12,22,3
+Kentucky,13,13,18
+Iowa,14,12,33
+Maine,15,20,5
+Illinois,16,14,30
+Colorado,17,17,10
+Rhode Island,18,19,9
+Maryland,19,15,17
+Kansas,20,18,16
+South Dakota,21,16,25
+Indiana,22,21,28
+Utah,23,24,13
+New York,24,23,14
+Montana,25,25,36
+Florida,26,28,20
+Pennsylvania,27,26,35
+Ohio,28,30,19
+Washington,29,31,8
+Missouri,30,27,44
+North Carolina,31,29,39
+Idaho,32,35,22
+Texas,33,33,31
+Tennessee,34,36,26
+Georgia,35,34,38
+Hawaii,36,38,32
+Michigan,37,32,49
+California,38,40,37
+South Carolina,39,39,41
+Oklahoma,40,45,15
+Arkansas,41,37,50
+Alaska,42,46,21
+Nevada,43,42,40
+Oregon,44,41,46
+District of Columbia,45,43,48
+Alabama,46,44,47
+West Virginia,47,48,24
+Arizona,48,50,34
+Louisiana,49,49,51
+New Mexico,50,51,45
